@@ -7,6 +7,8 @@
       <nav id="site-nav" class="greedy-nav" aria-label="Primary navigation">
         {% unless logo_path == empty %}
           <a class="site-logo" href="{{ '/' | relative_url }}"><img src="{{ logo_path | relative_url }}" alt="{{ site.masthead_title | default: site.title }}"></a>
+        {% else %}
+          <a class="site-logo site-logo--placeholder" href="{{ '/' | relative_url }}" aria-label="Logo-Platzhalter">Logo</a>
         {% endunless %}
         <a class="site-title" href="{{ '/' | relative_url }}">
           {{ site.masthead_title | default: site.title | escape_once | strip }}

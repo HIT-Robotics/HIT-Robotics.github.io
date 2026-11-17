@@ -7,7 +7,7 @@ authors:
   - "Timo Hufnagel"
   - "Dieter Schramm"
   - "Carsten Wittenberg"
-venue: "IFToMM DACH 2022"
+venue: "8. IFToMM DACH"
 doi: "10.17185/duepublico/75442"
 paper_url: ""
 ---

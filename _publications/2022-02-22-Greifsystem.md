@@ -6,7 +6,7 @@ authors:
   - "Philipp Wächter"
   - "Timo Hufnagel"
   - "Dieter Schramm"
-venue: "IFToMM DACH 2022"
+venue: "8. IFToMM DACH"
 doi: "10.17185/duepublico/75433"
 paper_url: ""
 ---

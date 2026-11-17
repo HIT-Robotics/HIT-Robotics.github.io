@@ -2,4 +2,5 @@
    Default skin
    ========================================================================== */
 
-// Intentionally left blank
+$masthead-link-color: #003594 !default;
+$masthead-link-color-hover: mix(#000, $masthead-link-color, 25%) !default;

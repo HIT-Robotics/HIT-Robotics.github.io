@@ -52,6 +52,13 @@ feature_row:
       **Rolle:** [Rolle oder Verantwortungsbereich]
 
       [Kurzbeschreibung: Was macht diese Person im Team?]
+  - image_path: "https://cdn.hs-heilbronn.de/185733571c57481e/d3f24694bb1b/v/d23db997ed84/benedict_bauer.jpg"
+    alt: "Platzhalterbild für Teammitglied 7"
+    title: "Bendeict Bauer"
+    excerpt: |
+      **Rolle:** [Rolle oder Verantwortungsbereich]
+
+      Tätigkeiten im Bereich mobile Robotik (FloriBot)
 ---
 
 ## Teammitglieder

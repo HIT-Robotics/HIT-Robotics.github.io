@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "default" #  "default", "air", "aqua", "contrast", "d
 # Site Settings
 locale                   : "de-DE"
 direction                : # "ltr" (default), "rtl" # set the direction of the page
-title                    : "HIT - Center for Robotics"
+title                    : "HIT - Zentrum für Robotik"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "HIT - Center for Robotics"
+name                     : "HIT - Zentrum für Robotik"
 description              : ""
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

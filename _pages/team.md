@@ -59,6 +59,13 @@ feature_row:
       **Rolle:** [Rolle oder Verantwortungsbereich]
 
       Tätigkeiten im Bereich mobile Robotik (FloriBot)
+  - image_path: "https://cdn.hs-heilbronn.de/abae6c8703ee4280/d55df48345a9/v/ed61d741a213/PXL_20251126_115505198.MP.jpg"
+    alt: "Platzhalterbild für Teammitglied 8"
+    title: "Janek Trunzer"
+    excerpt: |
+      **Rolle:** [Rolle oder Verantwortungsbereich]
+
+      [Kurzbeschreibung: Was macht diese Person im Team?]
 ---
 
 ## Teammitglieder

@@ -3,7 +3,7 @@ layout: splash
 permalink: /
 hidden: true
 header:
-  overlay_color: "#003594"
+  overlay_color: "rgb(0, 40, 150)"
   overlay_image: /assets/images/mm-home-page-feature.jpg
   show_overlay_excerpt: false
 video_path: /assets/videos/intro.mp4

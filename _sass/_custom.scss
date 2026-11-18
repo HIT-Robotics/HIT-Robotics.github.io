@@ -85,6 +85,11 @@
   display: none;
 }
 
+.project-page .page__content {
+  text-align: justify;
+  hyphens: auto;
+}
+
 @media (max-width: 768px) {
   .home-intro {
     grid-template-columns: minmax(0, 1fr);

@@ -7,7 +7,7 @@ authors:
   - "Timo Hufnagel"
 venue: "20. AALE-Konferenz"
 doi: "https://doi.org/10.33968/2024.56"
-paper_url: "/assets/publications/PARA-ENGINEER/AALE 2024_PARA_ENGINEER_TG_MS_TH_Langfassung.pdf"
+#paper_url: "/assets/publications/"
 ---
 
 ## Abstract
@@ -17,8 +17,7 @@ Zum aktuellen Zeitpunkt besteht der Baukasten aus drei gängigen parallelkinemat
 
 ## Additional materials
 
-Here comes additional information about the research.
-Link zu vorhandenem Repo
+Link zum Github Projekt [PARA-ENGINEER](https://github.com/HIT-Robotics/para-engineer)
 
 ## Figures
 

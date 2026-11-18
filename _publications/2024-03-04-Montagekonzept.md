@@ -8,7 +8,7 @@ authors:
   - "Dieter Schramm"
 venue: "10. IFToMM D-A-CH Konferenz"
 doi: "10.17185/duepublico/81583"
-paper_url: "/assets/publications/"
+#paper_url: "/assets/publications/"
 ---
 
 ## Abstract

@@ -2,6 +2,7 @@
 layout: single
 permalink: /team/
 title: "Team"
+classes: team-page
 excerpt: "Lernen Sie die Menschen und Aufgaben des HIT-Centers für Robotik kennen."
 toc: false # true
 feature_row:
@@ -104,7 +105,6 @@ feature_row:
 {% include feature_row %}
 
 ## Offene Arbeiten
-
-- **[Titel der Arbeit]** — [Kurze Beschreibung der Aufgabe.] **Status:** Offen · **Kontakt:** [Name]
-- **[Titel der Arbeit]** — [Kurze Beschreibung der Aufgabe.] **Status:** In Arbeit · **Kontakt:** [Name]
-- **[Titel der Arbeit]** — [Kurze Beschreibung der Aufgabe.] **Status:** Offen · **Kontakt:** [Name]
+<!-- Beispiel:
+- **[Titel der Arbeit]** — [Kurze Beschreibung der Aufgabe.] **Status:** Offen / In Bearbeitung · **Kontakt:** [Name]
+-->

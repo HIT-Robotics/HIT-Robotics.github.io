@@ -21,6 +21,12 @@
         {% endif %}
 
         <div class="archive__item-body">
+          {% if f.degree %}
+            <p class="archive__item-degree">{{ f.degree }}</p>
+          {% else %}
+            <p class="archive__item-degree">&nbsp;</p>
+          {% endif %}
+
           {% if f.title %}
             <h2 class="archive__item-title">{{ f.title }}</h2>
           {% endif %}

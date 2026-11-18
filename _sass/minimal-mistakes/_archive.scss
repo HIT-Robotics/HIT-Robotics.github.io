@@ -61,11 +61,30 @@
   }
 }
 
+
+
+
+
 /* remove border*/
 .page__content {
+
+
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+  }
+  
+  p.archive__item-degree {
+    color: rgb(120, 120, 120);
+    font-size: 0.7em;
+    font-weight: bold;
+
+    margin-bottom: 0.1em;
+    margin-top: 1.2em;
+  }
+  
+  p.archive__item-degree + .archive__item-title {
+    margin-top: 0;
   }
 }
 

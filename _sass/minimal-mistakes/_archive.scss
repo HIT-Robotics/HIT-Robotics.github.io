@@ -72,6 +72,9 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+    min-height: 2lh;
+    align-content: center;
+    box-sizing: content-box;
   }
   
   p.archive__item-degree {
@@ -82,10 +85,10 @@
     margin-bottom: 0.1em;
     margin-top: 1.2em;
   }
-  
-  p.archive__item-degree + .archive__item-title {
-    margin-top: 0;
-  }
+}
+
+.team-page p.archive__item-degree + .archive__item-title {
+  margin-top: 0;
 }
 
 .archive__item-excerpt {

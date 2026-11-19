@@ -47,8 +47,10 @@ Angelehnt an das menschliche Kleinhirn übernimmt generative KI die Feinabstimmu
 - **Ziel und Inhalt:** Für die Integration parallelkinematischer Robotersysteme in die Lehre der Hochschule Heilbronn, wurde mit dem Projekt „PARA-ENGINEER - Parallel Robot Assembly Kit for Educational Engineering and Robotics“ ein Modellbaukasten für Parallelroboter entwickelt. Mit dem Baukasten sollen Studierenden in die Lage versetzt werden, verschiedene Themen im Bereich der Parallelkinematik, nicht nur in der Simulation, sondern auch am realen Modell zu erproben. Mit der Plattform lassen sich verschiedene Parallelroboter mit unterschiedlicher Software und Hardware realisieren.
 - **Weitere Informationen:** [PARA-ENGINEER](https://github.com/HIT-Robotics/para-engineer)
 
+
 ## Abgeschlossene Projekte
 
+<!-- 
 ### Entwicklung eines neuartigen Verfahrens zur automatisierten Messung, Selektion und Montage von Lithium-Zellen in unterschiedliche Zellhaltersysteme
 
 - **Laufzeit:** 2022-2025
@@ -65,7 +67,7 @@ Angelehnt an das menschliche Kleinhirn übernimmt generative KI die Feinabstimmu
 - **Beteiligte:** Fabian Finkbeiner, Tom Gabler, Janek Trunzer
 - **Zuwendungsgeber:** autonox Robotics GmbH
 - **Ziel und Inhalt:** [Welche Forschungsfrage wurde untersucht?]
-
+-->
 <!-- Beispiele
 ### [Titel des laufenden Projekts]
 

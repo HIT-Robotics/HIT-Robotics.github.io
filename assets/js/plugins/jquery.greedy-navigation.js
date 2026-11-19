@@ -85,6 +85,10 @@ $(function() {
       numOfVisibleItems += 1;
       check();
     }
+    if ($hlinks.children().length > 0) {
+      $vlinks.children().prependTo($hlinks);
+      numOfVisibleItems = 0;
+    }
     // Update the button accordingly
     $btn.attr("count", numOfItems - numOfVisibleItems);
     if (numOfVisibleItems === numOfItems) {

@@ -99,8 +99,40 @@
   padding-inline: 0;
 }
 
+.home-page .home-topics .archive__item-excerpt {
+  text-align: justify;
+  hyphens: auto;
+}
+
 .home-page .archive__item-degree {
   display: none;
+}
+
+.labor-page .page__content .feature__wrapper {
+  display: grid;
+  grid-template-columns: repeat(1, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.labor-page .page__content .feature__item {
+  float: none;
+  width: auto;
+  margin: 0;
+  margin-inline-start: 0;
+  clear: none;
+}
+
+.labor-page .archive__item-degree {
+  display: none;
+}
+
+.labor-page .page__content h3 {
+  margin-top: 1em;
+}
+
+.labor-page .page__content h3 + p {
+  text-align: justify;
+  hyphens: auto;
 }
 
 .project-page .page__content {
@@ -114,6 +146,10 @@
   }
 
   .home-page .home-topics .feature__wrapper {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .labor-page .page__content .feature__wrapper {
     grid-template-columns: minmax(0, 1fr);
   }
 }

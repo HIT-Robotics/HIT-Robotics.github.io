@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /projects/
+permalink: /research-projects/
 title: "Forschungsprojekte"
 classes: project-page
 excerpt: "Ein Überblick über laufende und abgeschlossene Forschungsprojekte."

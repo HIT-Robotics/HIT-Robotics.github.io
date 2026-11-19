@@ -71,6 +71,7 @@
 
 .home-page .feature__wrapper .archive__item-teaser {
   aspect-ratio: 16 / 9;
+  border-radius: 0.5rem;
 }
 
 .home-page .feature__wrapper .archive__item-teaser img {
@@ -79,6 +80,23 @@
   width: 100%;
   height: 100%;
   object-fit: cover;
+}
+
+.home-page .home-topics .feature__wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.home-page .home-topics .feature__item {
+  float: none;
+  width: auto;
+  margin: 0;
+  clear: none;
+}
+
+.home-page .home-topics .feature__item .archive__item-body {
+  padding-inline: 0;
 }
 
 .home-page .archive__item-degree {
@@ -92,6 +110,10 @@
 
 @media (max-width: 768px) {
   .home-intro {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .home-page .home-topics .feature__wrapper {
     grid-template-columns: minmax(0, 1fr);
   }
 }

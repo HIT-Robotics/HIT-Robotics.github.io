@@ -21,12 +21,7 @@ feature_row:
     alt: "embodied AI"
     title: |
       Embodied AI
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-  - image_path: /assets/images/ros.png
-    alt: "pks+ros"
-    title: |
-      ROS2
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"    
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."  
 ---
 
 <section class="home-intro" aria-label="Einführung und Video">
@@ -49,4 +44,6 @@ feature_row:
   {% endif %}
 </section>
 
-{% include feature_row %}
+<section class="home-topics" aria-label="Forschungsthemen">
+  {% include feature_row %}
+</section>

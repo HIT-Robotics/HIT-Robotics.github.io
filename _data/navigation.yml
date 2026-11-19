@@ -2,10 +2,13 @@
 main:
   - title: "Team"
     url: /team/
+  - title: "Labor"
+    url: /labor/
   - title: "Veröffentlichungen"
     url: /publications/
-  - title: "Projekte"
-    url: /projects/
+  - title: "Forschungsprojekte"
+    url: /research-projects/
+  
 
 
 

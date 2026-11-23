@@ -37,6 +37,21 @@
             </div>
           {% endif %}
 
+          {% if f.badges %}
+            <ul class="team-badges" aria-label="Fachgebiete">
+              {% for badge in f.badges %}
+                <li class="team-badges__item">
+                  {% if badge.icon_path %}
+                    <img class="team-badges__icon" src="{{ badge.icon_path | relative_url }}" alt="">
+                  {% elsif badge.icon %}
+                    <i class="fas {{ badge.icon }}" aria-hidden="true"></i>
+                  {% endif %}
+                  <span>{{ badge.label | escape }}</span>
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
           {% if f.url %}
             <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default: site.data.ui-text[locale].more_label | default: "Learn More" }}</a></p>
           {% endif %}

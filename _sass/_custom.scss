@@ -108,6 +108,50 @@
   display: none;
 }
 
+.team-page .team-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin: 0.75rem 0 1.25rem;
+  padding: 0;
+  list-style: none;
+}
+
+.team-page .team-badges__item {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  padding: 0.25rem 0.55rem;
+  border: 1px solid rgba($primary-color, 0.2);
+  border-radius: 999px;
+  background-color: rgba($primary-color, 0.07);
+  color: $primary-color;
+  font-size: 0.7em;
+  line-height: 1.4;
+}
+
+.team-page .team-badges__item i {
+  font-size: 0.9em;
+}
+
+.team-page .team-badges__icon {
+  width: 1em;
+  height: 1em;
+  flex: 0 0 auto;
+  object-fit: contain;
+}
+
+.team-page p {
+  margin: 0;
+}
+
+.team-page .team-role{
+  min-height: 2lh;
+  box-sizing: content-box;
+  margin-block-start: 0rem;
+  margin-block-end: 0rem;
+}
+
 .labor-page .page__content .feature__wrapper {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));

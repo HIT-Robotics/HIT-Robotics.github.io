@@ -1,5 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" fill="none" stroke="#002896" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M8 10h13l4 3v5H8zM13 10V7h5v3"/>
-  <circle cx="22" cy="14" r="1"/>
-  <path d="m10 18-2 4 1 4m5-8 1 5-1 4m6-9 1 5 2 4m2-9 2 4-1 4M6 27h5m2 0h3m5 0h3m2 0h3"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   sodipodi:docname="mobile-robotics_v2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="19.555922"
+     inkscape:cx="1.4829268"
+     inkscape:cy="18.58772"
+     inkscape:window-width="1920"
+     inkscape:window-height="1129"
+     inkscape:window-x="3832"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999999"
+       spacingy="0.99999999"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#002896;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1-4"
+       width="12.021727"
+       height="9.0971746"
+       x="18.978273"
+       y="11.902825" />
+    <rect
+       style="fill:none;stroke:#002896;stroke-width:2;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="12.019393"
+       height="9.1480503"
+       x="0.98060751"
+       y="11.85195" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#002896;stroke-width:1.11803;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 12.691011,21.440987 17,21.453771"
+       id="path10"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#002896;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15,21 v -4 h 2"
+       id="path11"
+       sodipodi:nodetypes="ccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#002896;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="M 19,19 H 16.197139"
+       id="path12"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:#002896;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       d="m 16.495555,17 0.02122,4.452337"
+       id="path13"
+       sodipodi:nodetypes="cc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Ebene 2">
+    <ellipse
+       style="fill:#ffffff;fill-opacity:1;stroke:#002896;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6"
+       cx="7"
+       cy="20.301552"
+       rx="3.6984494"
+       ry="3.6984491" />
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#002896;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+       id="path6-1"
+       cx="25"
+       cy="20.30155"
+       r="3.6984496" />
+  </g>
 </svg>

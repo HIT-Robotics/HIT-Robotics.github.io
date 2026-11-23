@@ -19,9 +19,9 @@ feature_row:
       - label: "Parallelrobotik"
         icon_path: "/assets/images/icons/parallel-robot.svg"
       - label: "Robotiksysteme"
-        icon: "fa-gears"
+        icon_path: "/assets/images/icons/robot-arm.svg"
       - label: "KI für Robotik"
-        icon: "fa-brain"
+        icon_path: "/assets/images/icons/ai-robotics.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/d39fcbb3a280619e/b9d897124948/v/f342be97e077/LC_04871.jpg"
     alt: "Platzhalterbild für Teammitglied 2"
@@ -34,7 +34,7 @@ feature_row:
       <p class="team-role">Labor- und Projektmitarbeiter</p>
     badges:
       - label: "Laborinfrastruktur"
-        icon: "fa-screwdriver-wrench"
+        icon_path: "/assets/images/icons/lab-infrastructure.svg"
       - label: "Parallelrobotik"
         icon_path: "/assets/images/icons/parallel-robot.svg"
 
@@ -49,9 +49,9 @@ feature_row:
       <p class="team-role">Labor- und Projektmitarbeiter</p>
     badges:
       - label: "Laborinfrastruktur"
-        icon: "fa-screwdriver-wrench"
+        icon_path: "/assets/images/icons/lab-infrastructure.svg"
       - label: "ROS2"
-        icon: "fa-code-branch"
+        icon_path: "/assets/images/icons/ros2.svg"
       - label: "Parallelrobotik"
         icon_path: "/assets/images/icons/parallel-robot.svg"
   
@@ -66,9 +66,9 @@ feature_row:
       <p class="team-role">Projektmitarbeiter</p>
     badges:
       - label: "KI für Robotik"
-        icon: "fa-brain"
+        icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "Robotiksysteme"
-        icon: "fa-gears"
+        icon_path: "/assets/images/icons/robot-arm.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/05340b9d883a040d/c31960dd18f1/v/b8d7c04550fc/LC_05000-1-.jpg"
     alt: "Platzhalterbild für Teammitglied 5"
@@ -81,9 +81,9 @@ feature_row:
       <p class="team-role">Projektmitarbeiter</p>
     badges:
       - label: "KI für Robotik"
-        icon: "fa-brain"
+        icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "VLA"
-        icon: "fa-comments"
+        icon_path: "/assets/images/icons/vla.svg"
 
       
   - image_path: "https://cdn.hs-heilbronn.de/f5a70e0b0c8169cc/2672dd216ffc/v/dd8b1798f30e/LC_05005.jpg"
@@ -97,9 +97,9 @@ feature_row:
       <p class="team-role">Projektmitarbeiter</p>
     badges:
       - label: "KI für Robotik"
-        icon: "fa-brain"
+        icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "VLA"
-        icon: "fa-comments"
+        icon_path: "/assets/images/icons/vla.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/185733571c57481e/d3f24694bb1b/v/d23db997ed84/benedict_bauer.jpg"
     alt: "Platzhalterbild für Teammitglied 7"
@@ -112,11 +112,11 @@ feature_row:
       <p class="team-role">Labormitarbeiter</p>
     badges:
       - label: "Mobile Robotik"
-        icon: "fa-robot"
+        icon_path: "/assets/images/icons/mobile-robotics.svg"
       - label: "Laborinfrastruktur"
-        icon: "fa-screwdriver-wrench"
+        icon_path: "/assets/images/icons/lab-infrastructure.svg"
       - label: "KI für Robotik"
-        icon: "fa-brain"
+        icon_path: "/assets/images/icons/ai-robotics.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/abae6c8703ee4280/d55df48345a9/v/ed61d741a213/PXL_20251126_115505198.MP.jpg"
     alt: "Platzhalterbild für Teammitglied 8"
@@ -131,9 +131,9 @@ feature_row:
       - label: "Parallelrobotik"
         icon_path: "/assets/images/icons/parallel-robot.svg"
       - label: "KI für Robotik"
-        icon: "fa-brain"
+        icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "ROS2"
-        icon: "fa-code-branch"
+        icon_path: "/assets/images/icons/ros2.svg"
 ---
 
 ## Teammitglieder

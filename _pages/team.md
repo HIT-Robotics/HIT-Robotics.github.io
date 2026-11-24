@@ -50,10 +50,10 @@ feature_row:
     badges:
       - label: "Laborinfrastruktur"
         icon_path: "/assets/images/icons/lab-infrastructure.svg"
-      - label: "ROS2"
-        icon_path: "/assets/images/icons/ros2.svg"
       - label: "Parallelrobotik"
         icon_path: "/assets/images/icons/parallel-robot.svg"
+      - label: "ROS2"
+        icon_path: "/assets/images/icons/ros2.svg"
   
   - image_path: "https://cdn.hs-heilbronn.de/1884f54cf8f04eee/8163777ca7e2/v/a49ff6df6a12/Schulz.jpg"
     alt: "Platzhalterbild für Teammitglied 4"
@@ -67,8 +67,10 @@ feature_row:
     badges:
       - label: "KI für Robotik"
         icon_path: "/assets/images/icons/ai-robotics.svg"
-      - label: "Robotiksysteme"
-        icon_path: "/assets/images/icons/robot-arm.svg"
+      - label: "Kollaborierende Robotik"
+        icon_path: "/assets/images/icons/"
+      - label: "Reinforcment Learning"
+        icon_path: "/assets/images/icons/reinforcement-learning.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/05340b9d883a040d/c31960dd18f1/v/b8d7c04550fc/LC_05000-1-.jpg"
     alt: "Platzhalterbild für Teammitglied 5"
@@ -84,6 +86,8 @@ feature_row:
         icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "VLA"
         icon_path: "/assets/images/icons/vla.svg"
+      - label: "Reinforcment Learning"
+        icon_path: "/assets/images/icons/reinforcement-learning.svg"
 
       
   - image_path: "https://cdn.hs-heilbronn.de/f5a70e0b0c8169cc/2672dd216ffc/v/dd8b1798f30e/LC_05005.jpg"
@@ -100,6 +104,8 @@ feature_row:
         icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "VLA"
         icon_path: "/assets/images/icons/vla.svg"
+      - label: "Reinforcment Learning"
+        icon_path: "/assets/images/icons/reinforcement-learning.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/185733571c57481e/d3f24694bb1b/v/d23db997ed84/benedict_bauer.jpg"
     alt: "Platzhalterbild für Teammitglied 7"
@@ -111,10 +117,10 @@ feature_row:
       **Rolle:**  
       <p class="team-role">Labormitarbeiter</p>
     badges:
-      - label: "Mobile Robotik"
-        icon_path: "/assets/images/icons/mobile-robotics.svg"
       - label: "Laborinfrastruktur"
         icon_path: "/assets/images/icons/lab-infrastructure.svg"
+      - label: "Mobile Robotik"
+        icon_path: "/assets/images/icons/mobile-robotics.svg"
       - label: "KI für Robotik"
         icon_path: "/assets/images/icons/ai-robotics.svg"
 
@@ -130,8 +136,6 @@ feature_row:
     badges:
       - label: "Parallelrobotik"
         icon_path: "/assets/images/icons/parallel-robot.svg"
-      - label: "KI für Robotik"
-        icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "ROS2"
         icon_path: "/assets/images/icons/ros2.svg"
 ---

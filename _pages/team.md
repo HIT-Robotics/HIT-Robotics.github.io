@@ -67,9 +67,9 @@ feature_row:
     badges:
       - label: "KI für Robotik"
         icon_path: "/assets/images/icons/ai-robotics.svg"
-      - label: "Kollaborierende Robotik"
-        icon_path: "/assets/images/icons/"
-      - label: "Reinforcment Learning"
+      - label: "Cobots"
+        icon_path: "/assets/images/icons/cobot.svg"
+      - label: "Reinforcement Learning"
         icon_path: "/assets/images/icons/reinforcement-learning.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/05340b9d883a040d/c31960dd18f1/v/b8d7c04550fc/LC_05000-1-.jpg"
@@ -86,7 +86,7 @@ feature_row:
         icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "VLA"
         icon_path: "/assets/images/icons/vla.svg"
-      - label: "Reinforcment Learning"
+      - label: "Reinforcement Learning"
         icon_path: "/assets/images/icons/reinforcement-learning.svg"
 
       
@@ -104,7 +104,7 @@ feature_row:
         icon_path: "/assets/images/icons/ai-robotics.svg"
       - label: "VLA"
         icon_path: "/assets/images/icons/vla.svg"
-      - label: "Reinforcment Learning"
+      - label: "Reinforcement Learning"
         icon_path: "/assets/images/icons/reinforcement-learning.svg"
 
   - image_path: "https://cdn.hs-heilbronn.de/185733571c57481e/d3f24694bb1b/v/d23db997ed84/benedict_bauer.jpg"
